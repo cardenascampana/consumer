@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hcardenas-consumer
+
+server:
+  port: 8072
